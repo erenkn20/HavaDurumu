@@ -1,0 +1,17 @@
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.AssemblyInfoInputs.cache
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.AssemblyInfo.cs
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.csproj.CoreCompileInputs.cache
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\HavaDurumuTahmini.exe
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\HavaDurumuTahmini.deps.json
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\HavaDurumuTahmini.runtimeconfig.json
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\HavaDurumuTahmini.dll
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\HavaDurumuTahmini.pdb
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.csproj.AssemblyReference.cache
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.csproj.CopyComplete
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.dll
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\refint\HavaDurumuTahmini.dll
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.pdb
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\HavaDurumuTahmini.genruntimeconfig.cache
+C:\Users\eren3\source\repos\HavaDurumuTahmini\HavaDurumuTahmini\obj\Debug\net8.0\ref\HavaDurumuTahmini.dll
