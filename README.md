@@ -38,10 +38,5 @@ Uygulama, şehir bulunamadığı veya veri alımı sırasında genel hatalar gib
 
 - Kodu istediğiniz gibi keşfetmekte ve değiştirmekte özgürsünüz.
 
-## Lisans
-
-Bu proje, ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız, MIT Lisansı altında lisanslanmıştır.
-
----
 
 Katkıda bulunmaktan, sorun bildirmekten veya geliştirmeler önermekten çekinmeyin. İyi kodlamalar!
